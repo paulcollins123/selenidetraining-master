@@ -28,3 +28,5 @@ hs_err_pid*
 *.exe
 chromedriver75_mac
 chromedriver76_mac
+/selenide-training.iml
+/selenidetraining.iml
